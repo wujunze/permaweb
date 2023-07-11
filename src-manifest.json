@@ -1,0 +1,10 @@
+{
+"manifest": "arweave/paths",
+"version": "0.1.0",
+"paths": {
+"style.css":{"id":"JDLVXzedkUOklXddRps6fs93nKJpiQ5Xg5mTBLFR38E"},
+"index.js":{"id":"ur160ZQFB5ZYU1J4uucf6cMs2ZmSGabdDShvb1omj1A"},
+"index.html":{"id":"xagJuEMtoxG_ZaIcssdspzVSEGZJ7VlzVV2GY4JqVqE"}
+},
+"index":{"path":"index.html"}
+}
